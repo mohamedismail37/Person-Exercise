@@ -1,3 +1,3 @@
-## Person Exercise
-Small project using OOP priciples as :
-# Encapsulation & Abstraction
+# Person Exercise
+Small project using OOP principles as :
+## Encapsulation & Abstraction
